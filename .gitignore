@@ -1,0 +1,9 @@
+/data
+/pretrained_models
+/ynet_additional_files
+/segmentation_models
+/SDD_segmentation.pth
+
+__pycache__/
+/.ipynb_checkpoints*
+/.vscode
